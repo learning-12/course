@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/.." />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Study" />
+    <orderEntry type="module" module-name="ruhr_cloud" />
+    <orderEntry type="module" module-name="spj" />
+    <orderEntry type="module" module-name="ddt_method" />
+    <orderEntry type="module" module-name="selenium" />
+    <orderEntry type="module" module-name="requests_lib" />
+    <orderEntry type="module" module-name="shanshisong" />
+    <orderEntry type="module" module-name="sss_ordercallback" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

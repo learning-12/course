@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../study/.idea/Study.iml" filepath="$PROJECT_DIR$/../study/.idea/Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/course.iml" filepath="$PROJECT_DIR$/.idea/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ddt_method/.idea/ddt_method.iml" filepath="$PROJECT_DIR$/../ddt_method/.idea/ddt_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../master/.idea/master.iml" filepath="$PROJECT_DIR$/../master/.idea/master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../requests_lib/.idea/requests_lib.iml" filepath="$PROJECT_DIR$/../requests_lib/.idea/requests_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ruhr_cloud/.idea/ruhr_cloud.iml" filepath="$PROJECT_DIR$/../ruhr_cloud/.idea/ruhr_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium/.idea/selenium.iml" filepath="$PROJECT_DIR$/../selenium/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appium_shanshisong/.idea/shanshisong.iml" filepath="$PROJECT_DIR$/../appium_shanshisong/.idea/shanshisong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spj/.idea/spj.iml" filepath="$PROJECT_DIR$/../spj/.idea/spj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sss_ordercallback/.idea/sss_ordercallback.iml" filepath="$PROJECT_DIR$/../sss_ordercallback/.idea/sss_ordercallback.iml" />
+    </modules>
+  </component>
+</project>

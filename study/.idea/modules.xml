@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Demo/.idea/Demo.iml" filepath="$PROJECT_DIR$/../Demo/.idea/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebTools/.idea/WebTools.iml" filepath="$PROJECT_DIR$/../WebTools/.idea/WebTools.iml" />
+      <module fileurl="file://D:/自动化请教/py+selenium+unittest框架/ddt_method/.idea/ddt_method.iml" filepath="D:/自动化请教/py+selenium+unittest框架/ddt_method/.idea/ddt_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium/.idea/selenium.iml" filepath="$PROJECT_DIR$/../selenium/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yjyx/.idea/yjyx.iml" filepath="$PROJECT_DIR$/../yjyx/.idea/yjyx.iml" />
+    </modules>
+  </component>
+</project>
